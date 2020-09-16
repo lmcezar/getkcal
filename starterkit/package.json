@@ -1,0 +1,9 @@
+{
+  "name": "starterkit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
